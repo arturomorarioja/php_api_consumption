@@ -1,0 +1,9 @@
+:root {
+    --colourPrimary: black;
+}
+
+pre {
+    overflow: auto;
+    padding: 1rem;
+    border: thin solid var(--colourPrimary);
+}
